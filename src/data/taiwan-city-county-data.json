@@ -1,0 +1,134 @@
+[
+	{
+		"id": 1,
+		"key": "Taipei",
+		"value": "臺北市",
+		"imageUrl": ""
+	},
+	{
+		"id": 2,
+		"key": "NewTaipei",
+		"value": "新北市",
+		"imageUrl": ""
+	},
+	{
+		"id": 3,
+		"key": "Taoyuan",
+		"value": "桃園市",
+		"imageUrl": ""
+	},
+	{
+		"id": 4,
+		"key": "Taichung",
+		"value": "臺中市",
+		"imageUrl": ""
+	},
+	{
+		"id": 5,
+		"key": "Tainan",
+		"value": "臺南市",
+		"imageUrl": ""
+	},
+	{
+		"id": 6,
+		"key": "Kaohsiung",
+		"value": "高雄市",
+		"imageUrl": ""
+	},
+	{
+		"id": 7,
+		"key": "Keelung",
+		"value": "基隆市",
+		"imageUrl": ""
+	},
+	{
+		"id": 8,
+		"key": "Hsinchu",
+		"value": "新竹市",
+		"imageUrl": ""
+	},
+	{
+		"id": 9,
+		"key": "HsinchuCounty",
+		"value": "新竹縣",
+		"imageUrl": ""
+	},
+	{
+		"id": 10,
+		"key": "MiaoliCounty",
+		"value": "苗栗縣",
+		"imageUrl": ""
+	},
+	{
+		"id": 11,
+		"key": "ChanghuaCounty",
+		"value": "彰化縣",
+		"imageUrl": ""
+	},
+	{
+		"id": 12,
+		"key": "NantouCounty",
+		"value": "南投縣",
+		"imageUrl": ""
+	},
+	{
+		"id": 13,
+		"key": "YunlinCounty",
+		"value": "雲林縣",
+		"imageUrl": ""
+	},
+	{
+		"id": 14,
+		"key": "ChiayiCounty",
+		"value": "嘉義縣",
+		"imageUrl": ""
+	},
+	{
+		"id": 15,
+		"key": "Chiayi",
+		"value": "嘉義市",
+		"imageUrl": ""
+	},
+	{
+		"id": 16,
+		"key": "PingtungCounty",
+		"value": "臺東縣",
+		"imageUrl": ""
+	},
+	{
+		"id": 17,
+		"key": "YilanCounty",
+		"value": "宜蘭縣",
+		"imageUrl": ""
+	},
+	{
+		"id": 18,
+		"key": "HualienCounty",
+		"value": "花蓮縣",
+		"imageUrl": ""
+	},
+	{
+		"id": 19,
+		"key": "TaitungCounty",
+		"value": "臺東縣",
+		"imageUrl": ""
+	},
+	{
+		"id": 20,
+		"key": "KinmenCounty",
+		"value": "金門縣",
+		"imageUrl": ""
+	},
+	{
+		"id": 21,
+		"key": "PenghuCounty",
+		"value": "澎湖縣",
+		"imageUrl": ""
+	},
+	{
+		"id": 22,
+		"key": "LienchiangCounty",
+		"value": "連江縣",
+		"imageUrl": ""
+	}
+]
